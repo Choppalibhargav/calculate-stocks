@@ -28,7 +28,7 @@ body{
     display: block;
     font-size: larger;
     font-style: italic;
-    color: var(--secondary-color);
+    color: var(--dark-color);
     border-radius: 1rem;
     border-color: var(--secondary-color);
 }
@@ -39,7 +39,7 @@ body{
     display: block;
     font-size: larger;
     font-style: italic;
-    color: var(--secondary-color);
+    color: var(--dark-color);
     border-radius: 1rem;
     border-color: var(--secondary-color);
 
@@ -52,7 +52,7 @@ body{
     display: block;
     font-size: larger;
     font-style: italic;
-    color: var(--secondary-color);
+    color: var(--dark-color);
     border-radius: 1rem;
     border-color: var(--secondary-color);
 }
