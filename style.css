@@ -31,6 +31,7 @@ body{
     color: var(--dark-color);
     border-radius: 1rem;
     border-color: var(--secondary-color);
+    cursor: pointer;
 }
 #stocks-quantity{
     text-align: center;
@@ -55,6 +56,7 @@ body{
     color: var(--dark-color);
     border-radius: 1rem;
     border-color: var(--secondary-color);
+    cursor: pointer;
 }
 
 #submit-btn{
@@ -64,6 +66,7 @@ body{
     border-radius: 1rem;
     background-color: var(--dark-color);
     color: var(--secondary-color);
+    cursor: pointer;
 
 }
 
