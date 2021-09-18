@@ -1,2 +1,3 @@
 # calculate stock
-This is an app which checks your birthday is palindrome or not.This app is made up of vanilla js.It will also indicate when the palindrome date will appear
+This app is made up of vanilla js. This app calculate the given stock details and tells the profit,loss,profit percentage and loss percentage.I hope you will enjoy This  
+         
