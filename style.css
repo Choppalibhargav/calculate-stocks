@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+:root{
+    --primary-color:#DB2777;
+    --secondary-color:#F9FAFB;
+    --dark-color:#111827;
+}
+
+
+body{
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    display: block;
+    margin: auto;
+    padding: auto;
+    background-color: var(--primary-color);
+}
+
+#h1{
+    font-style: italic;
+    color: var(--secondary-color);
+}
+
+#initial-price{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    display: block;
+    font-size: larger;
+    font-style: italic;
+    color: var(--secondary-color);
+    border-radius: 1rem;
+    border-color: var(--secondary-color);
+}
+#stocks-quantity{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    display: block;
+    font-size: larger;
+    font-style: italic;
+    color: var(--secondary-color);
+    border-radius: 1rem;
+    border-color: var(--secondary-color);
+
+}
+
+#current-price{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    display: block;
+    font-size: larger;
+    font-style: italic;
+    color: var(--secondary-color);
+    border-radius: 1rem;
+    border-color: var(--secondary-color);
+}
+
+#submit-btn{
+    padding: 0.5rem;
+    text-align: center;
+    margin: auto;
+    border-radius: 1rem;
+    background-color: var(--dark-color);
+    color: var(--secondary-color);
+
+}
+
+#output-box{
+font-style: italic;
+font-size:1.5rem;
+color: var(--secondary-color);
+
+
+}
